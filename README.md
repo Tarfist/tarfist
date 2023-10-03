@@ -37,22 +37,3 @@
 </div>
 
 ###
-
-<p align="center">As I said earlier, I'm more of a Builder in Roblox Studio</p>
-
-###
-
-<h2 align="center">My Socials</h2>
-
-###
-
-<div align="center">
-  <a href="@tarfz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="33" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCmiC8l9Zqb9hvx8WlWnlFvw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="33" alt="youtube logo"  />
-  </a>
-</div>
-
-###
