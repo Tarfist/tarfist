@@ -1,39 +1,63 @@
-<h1 align="center">Hey 👋 I'm Tarf</h1>
+<h1 align="left">👋 Hey, I'm Tarf</h1>
 
 ###
 
-<p align="center">This is my boring GitHub profile which I don't know what I'm doing tbh.</p>
+<h4 align="left">I'm someone who's trying to become an indie-dev and help others with my terrible skills at coding. Thank me later 🤞</h4>
 
 ###
 
-<h2 align="center">What I Do</h2>
+<h2 align="left">👀Bousy Stuff</h2>
 
 ###
 
-<p align="center">I'm a builder on Roblox Studio / alongside with UI related work<br>I got decent knowledge on Figma and Blender too</p>
+<h4 align="left">- Somewhat a graphic designer<br>- Got simple knowledge on Lua, C++ and HTML ofc<br>- Enough experience to know what hell is like<br>- praying I achieve my goals (like wanting to finish my projects duh)</h4>
 
 ###
 
-<h2 align="center">My Experience With Stuff</h2>
+<h2 align="left">☝️Stuff I got my hands on</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/lua/2C2D72" height="40" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="40" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/opensuse/73BA25" height="40" alt="opensuse logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yunohost/yunohost-original.svg" height="40" alt="yunohost logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fediverse" height="40" alt="fediverse logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=devto" height="40" alt="devto logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
 </div>
 
 ###
