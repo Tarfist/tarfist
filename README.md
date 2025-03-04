@@ -2,19 +2,19 @@
 
 ###
 
-<h4 align="left">I'm someone who's trying to become an indie-dev and help others with my terrible skills at coding. Thank me later 🤞</h4>
+I'm someone who's trying to become an indie-dev and help others with my terrible skills at coding. Thank me later 🤞</h4>
 
 ###
 
-<h2 align="left">👀Bousy Stuff</h2>
+<h2 align="left">👀 Bousy Stuff</h2>
 
 ###
 
-<h4 align="left">- Somewhat a graphic designer<br>- Got simple knowledge on Lua, C++ and HTML ofc<br>- Enough experience to know what hell is like<br>- praying I achieve my goals (like wanting to finish my projects duh)</h4>
+Somewhat a graphic designer<br>- Got simple knowledge on Lua, C++ and HTML ofc<br>- Enough experience to know what hell is like<br>- praying I achieve my goals (like wanting to finish my projects duh)</h4>
 
 ###
 
-<h2 align="left">☝️Stuff I got my hands on</h2>
+<h2 align="left">☝️ Stuff I got my hands on</h2>
 
 ###
 
