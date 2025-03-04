@@ -10,7 +10,10 @@ I'm someone who's trying to become an indie-dev and help others with my terrible
 
 ###
 
-Somewhat a graphic designer<br>- Got simple knowledge on Lua, C++ and HTML ofc<br>- Enough experience to know what hell is like<br>- praying I achieve my goals (like wanting to finish my projects duh)</h4>
+* Somewhat a graphic designer
+* Got simple knowledge on Lua, C++ and HTML ofc
+* Enough experience to know what hell is like
+* praying I achieve my goals (like wanting to finish my projects duh)
 
 ###
 
