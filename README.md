@@ -1,23 +1,12 @@
-<h1 align="left">👋 Hey, I'm Tarf</h1>
+<h1 align="center">👋 Hey, I'm Tarf</h1>
 
 ###
 
-I'm someone who's trying to become an indie-dev and help others with my terrible skills at coding. Thank me later 🤞</h4>
+<p align="center">Somewhat a graphic designer<br>Too geeked on enthusiasm<br>Got simple knowledge on Lua, C++ and HTML ofc<br>Enough experience to know what hell is like<br>praying I achieve my goals (like wanting to finish my projects duh)<br><br>And I hope for everyone's best.❤️</p>
 
 ###
 
-<h2 align="left">👀 Bousy Stuff</h2>
-
-###
-
-* Somewhat a graphic designer
-* Got simple knowledge on Lua, C++ and HTML ofc
-* Enough experience to know what hell is like
-* praying I achieve my goals (like wanting to finish my projects duh)
-
-###
-
-<h2 align="left">☝️ Stuff I got my hands on</h2>
+<h2 align="center">🗣️ Stuff I know</h2>
 
 ###
 
@@ -28,7 +17,7 @@ I'm someone who's trying to become an indie-dev and help others with my terrible
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="40" alt="fedora logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/opensuse/73BA25" height="40" alt="opensuse logo"  />
   <img width="12" />
@@ -61,6 +50,18 @@ I'm someone who's trying to become an indie-dev and help others with my terrible
   <img src="https://skillicons.dev/icons?i=devto" height="40" alt="devto logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/tarfist/tarfist/output/snake.svg" alt="Snake animation" />
 
 ###
